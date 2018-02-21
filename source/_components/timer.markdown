@@ -42,8 +42,10 @@ Pick an icon that you can find on [materialdesignicons.com](https://materialdesi
 
 |           Event | Description |
 | --------------- | ----------- |
+| timer.started   | Fired when a timer has been started |
+| timer.paused    | Fired when a timer is paused |
 | timer.cancelled | Fired when a timer has been canceled |
-|  timer.finished | Fired when a timer has completed |
+| timer.finished  | Fired when a timer has completed |
 
 ## {% linkable_title Services %}
 
